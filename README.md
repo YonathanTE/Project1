@@ -1,11 +1,9 @@
 # Summarization of our findings
-https://gwuvirtfinpt0-a5z7500.slack.com/files/U01TN1SH2KW/F024VCBHQLS/screen_shot_2021-06-08_at_6.17.20_pm.png
-https://gwuvirtfinpt0-a5z7500.slack.com/files/U01TN1SH2KW/F024EK4FEJ3/screen_shot_2021-06-08_at_6.17.32_pm.png
-https://gwuvirtfinpt0-a5z7500.slack.com/files/U01TN1SH2KW/F024EK4GT1V/screen_shot_2021-06-08_at_6.17.57_pm.png
-https://gwuvirtfinpt0-a5z7500.slack.com/files/U01TN1SH2KW/F024SA4AE21/screen_shot_2021-06-08_at_6.18.37_pm.png
-https://gwuvirtfinpt0-a5z7500.slack.com/files/U01TN1SH2KW/F025K6JAXFA/screen_shot_2021-06-08_at_6.18.45_pm.png
-https://gwuvirtfinpt0-a5z7500.slack.com/files/U01TN1SH2KW/F024VCBN9H8/screen_shot_2021-06-08_at_6.18.56_pm.png
 
+![Image of Borrow Rewards for each Stable coin](Project1/Screen Shot 2021-06-08 at 6.18.20 PM.png)
+![Image of Lending Rewards for each Stable coin](Project1/Screen Shot 2021-06-08 at 6.18.32 PM.png)
+![Image of Lend Size over time](Project1/Screen Shot 2021-06-08 at 6.18.37 PM.png)
+![Image of Borrow Size Over Time](Project1/Screen Shot 2021-06-08 at 6.18.45 PM.png)
 
 # Looking at each of the stable coins, which coin has the best return rate (without rewards) over time?
 -- We wanted to get an idea for which coins gave the best returns without taking the price of MATIC into consideration

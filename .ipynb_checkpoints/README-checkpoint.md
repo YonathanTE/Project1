@@ -25,3 +25,5 @@ between .0001 and .0006.
 
 # If we were to invest 10,000 dollars into the optimal deposit/return strategy, how much money would we aggregate in the given period? 
 There would be a return of around 685 dollars, which means that the strategy had been able to gain a minimum amount above 300 dollars per month.
+
+https://docs.google.com/presentation/d/1LJtCBJMu9i24YgyvY7zWZ1qBLAEX75KXJA7hkVT4vOQ/edit?usp=sharing_eil&ts=60c28e2b

@@ -1,12 +1,12 @@
 # Summarization of our findings
 
-![Image of Borrow Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Borrow Size Over Time)
+![Image of Borrow Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1\Image_of_Borrow_Size_Over_Time.png)
 
-![Image of Lending Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Lending Rewards for each Stable coin)
+![Image of Lending Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Lending Rewards for each Stable coin.png)
 
-![Image of Lend Size over time](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Lend Size over time)
+![Image of Lend Size over time](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Lend Size over time.png)
 
-![Image of Borrow Size Over Time](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Borrow Size Over Time)
+![Image of Borrow Size Over Time](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Borrow Size Over Time.png)
 
 # Looking at each of the stable coins, which coin has the best return rate (without rewards) over time?
 -- We wanted to get an idea for which coins gave the best returns without taking the price of MATIC into consideration

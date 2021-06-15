@@ -1,6 +1,6 @@
 # Summarization of our findings
 
-![Image of Borrow Rewards for each Stable coin](..\Project1\Image_of_Borrow_Size_Over_Time.png)
+![Image of Borrow Rewards for each Stable coin](Borrow_Size.png)
 
 ![Image of Lending Rewards for each Stable coin](..\Project1\Image_of_Lending_Rewards_for_each_Stable_coin.png)
 

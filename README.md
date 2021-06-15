@@ -1,8 +1,8 @@
 # Summarization of our findings
 
-![Image of Borrow Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1\Image_of_Borrow_Size_Over_Time.png)
+![Image of Borrow Rewards for each Stable coin](..\Project1\Image_of_Borrow_Size_Over_Time.png)
 
-![Image of Lending Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Lending Rewards for each Stable coin.png)
+![Image of Lending Rewards for each Stable coin](..\Project1\Image_of_Lending_Rewards_for_each_Stable_coin.png)
 
 ![Image of Lend Size over time](C:\Users\Yonathan\Desktop\FinTech\Project1\Image of Lend Size over time.png)
 

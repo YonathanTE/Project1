@@ -1,8 +1,12 @@
 # Summarization of our findings
 
 ![Image of Borrow Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1)
-![Image of Lending Rewards for each Stable coin](Project1/Screen Shot 2021-06-08 at 6.18.32 PM.png)
+
+
+![Image of Lending Rewards for each Stable coin](C:\Users\Yonathan\Desktop\FinTech\Project1)
+
 ![Image of Lend Size over time](Project1/Screen Shot 2021-06-08 at 6.18.37 PM.png)
+
 ![Image of Borrow Size Over Time](Project1/Screen Shot 2021-06-08 at 6.18.45 PM.png)
 
 # Looking at each of the stable coins, which coin has the best return rate (without rewards) over time?
